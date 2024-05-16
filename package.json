@@ -1,0 +1,22 @@
+{
+  "name": "bothoster-backend",
+  "version": "1.0.0",
+  "description": "Backend for bots.agori.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "file-type": "^19.0.0",
+    "firebase": "^10.8.0",
+    "tracery-grammar": "^2.7.4",
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.16.0",
+    "twitter-lite": "^1.1.0",
+    "dotenv": "^10.0.0"
+  },
+  "type": "module"
+}
